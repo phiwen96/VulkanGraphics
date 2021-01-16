@@ -1,0 +1,64 @@
+#pragma once
+//#import <ph/common/common.hpp>
+
+
+
+#import <iostream>
+#import <stdio.h>
+#import <list>
+#import <any>
+#import <variant>
+#import <type_traits>
+#import <math.h>
+#import <vector>
+
+//#define GLFW_INCLUDE_VULKAN
+//#import <vulkan/vulkan.hpp>
+//#import <GLFW/glfw3.h>
+//#import <glm/vec4.hpp>
+//#import <glm/mat4x4.hpp>
+//#import <glm/vec2.hpp>
+//#import <glm/vec3.hpp>
+//#import <glm/gtc/matrix_transform.hpp>
+//#define GLM_FORCE_RADIANS
+//#define GLM_FORCE_DEFAULT_ALIGNED_GENTYPES
+//#import <glm/glm.hpp>
+
+//#include <mpi.h>
+
+
+#import <functional>
+#import <thread>
+#import <unordered_map>
+#import <algorithm>
+#import <map>
+#import <fstream>
+#import <array>
+#import <set>
+#import <deque>
+#import <optional>
+
+
+#import <chrono>
+#import <stdint.h>
+#import <assert.h>
+#import <stdlib.h>
+#import <stdbool.h>
+#import <memory.h>
+#import <float.h>
+#import <time.h>
+#import <typeinfo>
+
+//#import <petscksp.h>
+
+#include <math.h>
+#include <filesystem>
+#include <initializer_list>
+#include <tuple>
+#include <stdlib.h>
+#import <list>
+//#import "common.hpp"
+#import <cmath>
+//namespace fs = std::filesystem;
+
+using namespace std;
